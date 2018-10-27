@@ -1,0 +1,10 @@
+nav ul li {
+    list-style: none;
+    display: inline-block;
+    text-align: center;
+}
+
+nav ul li a {
+    text-decoration:none;
+    color: blue;
+}
